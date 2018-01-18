@@ -1,0 +1,67 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf100
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red23\green38\blue64;\red255\green255\blue255;}
+{\*\expandedcolortbl;;\cssrgb\c11765\c20000\c31765;\cssrgb\c100000\c100000\c100000;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
+Chairman Donilon, Vice Chairman Palmisano, and members of the Presidential Commission on Enhancing National Cybersecurity, thank you for the opportunity to speak to you.\cb1 \
+\cb3 Through its diplomacy, the State Department works energetically to strengthen our collective cybersecurity. Our efforts to coordinate, consult, and negotiate with a range of countries and international organizations complement the practical, day-to-day work of our interagency colleagues who maintain network security. Our cyber diplomats work to reduce risk and enhance stability in cyberspace. These efforts include but are not limited to working with our interagency partners to promote internationally a framework for cyber stability; building the capacity of foreign governments to promote cybersecurity and respond to cyber threats; using diplomatic channels to support cyber incident response; and partnering with other countries to combat transnational cybercrime and promote membership in the Budapest Convention. In each of these areas, we take care to ensure that our policy recommendations, capacity building efforts, and foreign assistance programs respect and reinforce the rule of law, the free flow of data, and human rights, including freedom of expression. I will discuss each of these lines of effort and offer a few policy recommendations.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\b \cf2 \cb3 Enhancing a Framework for International Stability in Cyberspace
+\b0 \cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 To strengthen cybersecurity on the international level, the Department of State, working with our interagency partners, is guided by the President\'92s 2011 International Strategy for Cyberspace, which sets out a strategic framework of international cyber stability designed to achieve and maintain a peaceful cyberspace where all states are able to fully realize its benefits, where there are advantages to cooperating against common threats and avoiding conflict, and where there is little incentive for states to engage in disruptive behavior or to attack one another.\cb1 \
+\cb3 This framework has three key elements: (1) affirmation that existing international law applies to state behavior in cyberspace; (2) development of an international consensus on and promotion of additional voluntary norms of responsible state behavior in cyberspace that apply during peacetime; and (3) development and implementation of practical confidence-building measures (CBMs) among states.\cb1 \
+\cb3 Since 2009, the United Nations Group of Governmental Experts on Developments in the Field of Information and Telecommunications in the Context of International Security (UN GGE) has served as a productive and groundbreaking expert-level venue for the United States to build support for this framework through three consensus reports in 2010, 2013, and 2015.\cb1 \
+\cb3 The conclusions captured in these reports have been endorsed by political leaders in a range of settings, including during the G20 summit in Antalya, Turkey, in 2015, and reaffirmed at the 2016 G20 summit in Hangzhou, China. Perhaps the most prominent bilateral statement of support for this framework came during Chinese President Xi Jinping\'92s state visit to Washington in September 2015, when both the United States and China committed, inter alia, that \'93neither country\'92s government will conduct or knowingly support cyber-enabled theft of intellectual property, including trade secrets or other confidential business information, with the intent of providing competitive advantages to companies or commercial sectors.\'94\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\b \cf2 \cb3 Capacity Building
+\b0 \cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 The United States can more effectively respond to foreign cyber threats and transnational crime when our international partners themselves have strong incident response and cybercrime fighting capabilities. Therefore, the Department of State is working with departments and agencies, allies, and multilateral partners to build the capacity of foreign governments, particularly in developing countries, to secure their own networks as well as to investigate and prosecute cybercriminals within their borders. The Department also actively promotes donor cooperation, including bilateral and multilateral participation in joint cyber capacity building initiatives.\cb1 \
+\cb3 In 2015, for example, the United States joined the Netherlands in founding the Global Forum on Cyber Expertise, a global platform for countries, international organizations, and the private sector to exchange best practices and expertise on cyber capacity building. The United States partnered with Japan, Australia, Canada, the African Union Commission, and Symantec on four cybersecurity and cybercrime capacity building initiatives. The Department also provided assistance to the Council of Europe, the Organization of American States, and the United Nations Global Program on Cybercrime, among others, to enable delivery of capacity building assistance to developing nations. Many traditional bilateral law enforcement training programs, including those focused on counterterrorism, increasingly include cyber elements, such as training investigators and prosecutors in the handling of electronic evidence. Much of our foreign law enforcement training on combatting intellectual property crime focuses on digital theft.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\b \cf2 \cb3 Responding to Cyber Incidents
+\b0 \cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 Over the past two years, we have witnessed a number of high-profile cyberattacks \'96 at home and abroad \'96 on financial institutions, private companies, government agencies, critical infrastructure, and political organizations.\cb1 \
+\cb3 The United States uses a whole-of-government approach to respond to and deter malicious activities in cyberspace that brings to bear its full range of instruments of national power and corresponding policy tools \'96 diplomatic, law enforcement, economic, military, and intelligence \'96 as appropriate and consistent with applicable law.\cb1 \
+\cb3 The State Department plays a key role in interagency deliberations on major cyber events, and it engages through diplomatic channels when needed. For example, during the 2012-2013 distributed denial-of-service (DDoS) attacks against financial institutions, diplomatic channels were used as a supplement to incident response efforts through more technical channels, ensuring that policy makers in foreign governments were aware of U.S. requests for assistance. We also have used diplomatic channels to raise concerns regarding the cyber-enabled theft of trade secrets for commercial gain.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\b \cf2 \cb3 Combatting Transnational Crime
+\b0 \cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 The United States is a global leader in the campaign against transnational crime. In partnership with key allies and multilateral partners, the U.S. helps countries effectively utilize existing legal tools, fund development of modern legal frameworks, provide training on cybercrime investigations, and strengthen international cooperation to combat modern, high-tech crime threats.\cb1 \
+\cb3 The State Department, with its interagency partners, actively promotes membership in the Council of Europe Convention on Cybercrime, known as the Budapest Convention, supports the Group of Seven (G7) 24/7 Network, and offers rewards for information leading to the arrest or conviction of members of transnational cybercrime organizations.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\b \cf2 \cb3 Recommendations
+\b0 \cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 As we look ahead, cybersecurity will continue to be a challenge for the United States when we take into consideration the rapidly expanding environment of global cyber threats, the increasing reliance on information technology, the reality that many developing nations are still in the early stages of their cyber maturity, and the ongoing and increasingly sophisticated use of information technology by terrorists and other criminals.\cb1 \
+\cb3 Therefore, we offer the following recommendations for the Commission\'92s consideration.\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf2 \cb3 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+Efforts to further strengthen the strategic framework of international cyber stability should continue through promotion of certain voluntary norms of responsible state behavior in cyberspace that apply during peacetime; expansion of global affirmation that international law applies to state behavior in cyberspace; and development and implementation of additional confidence building measures to reduce risks of misperception and escalation.\cb1 \
+\ls1\ilvl0\cb3 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+The United States pursues a vision of openness and collaborative, multi-stakeholder governance for cyberspace, in stark contrast to alternative, state-centric concepts of cyberspace governance pursued by some countries, principally China and Russia. Therefore, the United States should continue to advocate in bilateral and multilateral fora, including the United Nations, toward multi-stakeholder governance for cyberspace.\cb1 \
+\ls1\ilvl0\cb3 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+The ability of the United States to respond to foreign cyber threats and promote international cyber stability is greatly enhanced by the capabilities and strength of our international partners in this area. It is essential, therefore, to continue to build the capacity of foreign governments, particularly in developing countries, to secure their own networks, and to promote donor cooperation in joint capacity building initiatives.\cb1 \
+\ls1\ilvl0\cb3 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+Given the transnational nature of the Internet and related communications infrastructure, international cooperation is essential to effectively address cyber incidents. This is especially true for the most serious cyber incidents of strategic concern that require an immediate response and those with significant cross-border implications. Therefore, the United States should continue efforts to enhance its understanding of other countries\'92 cyber incident response and coordination capabilities and to formalize communications channels, including network defense, law enforcement, diplomatic, military, and others.\cb1 \
+\ls1\ilvl0\cb3 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+To further combat transnational cybercrime, the United States should continue to expand its partnerships with allies and multilateral partners, promote membership in the Budapest Convention, enlarge the G7 24/7 Network, and target transnational cybercrime organizations.\cb1 \
+\ls1\ilvl0\cb3 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+Here at home, the State Department should continue to mainstream cyberspace issues into our foreign diplomatic engagements and build the necessary internal capacity to formulate, coordinate, and implement cyber policy and execute our cyber diplomacy.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 Lastly, to provide additional background information for the Commission\'92s consideration on the State Department\'92s work in this area, I am including with this statement two documents we submitted to Congress earlier this year \'96 my Senate oversight testimony and the Department of State International Cyberspace Policy Strategy.\cb1 \
+\cb3 In closing, I would like to thank the Commission for giving me this opportunity to speak today, and I look forward to answering any questions you may have.}
