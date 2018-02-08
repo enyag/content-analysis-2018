@@ -1,0 +1,53 @@
+Answer.Topic	Answer.Topic1	Answer.Topic10	Answer.Topic11	Answer.Topic12	Answer.Topic2	Answer.Topic3	Answer.Topic4	Answer.Topic5	Answer.Topic6	Answer.Topic7	Answer.Topic8	Answer.Topic9
+"Other, NOT Cyber"	"Other, NOT Cyber"	"Other, Cyber"	"Other, NOT Cyber"	Security	"Other, Cyber"	"Other, Cyber"	"Other, NOT Cyber"	"Other, NOT Cyber"	Security	"Other, NOT Cyber"	"Other, NOT Cyber"	"Other, NOT Cyber"
+"Other, NOT Cyber"	U.S. 2016 Election	Security	U.S. 2016 Election	Cyber Monday	Security	Cyber Monday	U.S. 2016 Election	U.S. 2016 Election	Security	U.S. 2016 Election	Security	"Other, NOT Cyber"
+"Other, NOT Cyber"	U.S. 2016 Election	U.S. 2016 Election	U.S. 2016 Election	U.S. 2016 Election	Security	U.S. 2016 Election	Cyber Monday	U.S. 2016 Election	Security	Cyber Monday	Security	U.S. 2016 Election
+"Other, NOT Cyber"	"Other, Cyber"	"Other, NOT Cyber"	Cyber Monday	Cyber Monday	Security	"Other, Cyber"	U.S. 2016 Election	U.S. 2016 Election	Security	"Other, NOT Cyber"	Security	Cyber Monday
+"Other, NOT Cyber"	"Other, NOT Cyber"	Security	"Other, NOT Cyber"	Security	"Other, Cyber"	Security	Security	"Other, NOT Cyber"	Cyber Monday	"Other, NOT Cyber"	"Other, NOT Cyber"	U.S. 2016 Election
+"Other, NOT Cyber"	"Other, NOT Cyber"	U.S. 2016 Election	Cyber Monday	Security	Security	Security	Security	U.S. 2016 Election	Security	U.S. 2016 Election	Cyber Monday	Cyber Monday
+"Other, NOT Cyber"	"Other, NOT Cyber"	"Other, NOT Cyber"	"Other, NOT Cyber"	Security	"Other, Cyber"	"Other, Cyber"	"Other, NOT Cyber"	"Other, NOT Cyber"	Security	"Other, Cyber"	"Other, NOT Cyber"	"Other, NOT Cyber"
+"Other, NOT Cyber"	U.S. 2016 Election	Cyber Monday	Security	Security	Cyber Monday	U.S. 2016 Election	Cyber Monday	Cyber Monday	Security	U.S. 2016 Election	U.S. 2016 Election	Cyber Monday
+"Other, NOT Cyber"	Security	Security	Cyber Monday	Cyber Monday	Cyber Monday	U.S. 2016 Election	Cyber Monday	"Other, Cyber"	U.S. 2016 Election	Security	Cyber Monday	"Other, Cyber"
+"Other, NOT Cyber"	"Other, NOT Cyber"	"Other, NOT Cyber"	Cyber Monday	"Other, Cyber"	Security	Security	"Other, NOT Cyber"	"Other, NOT Cyber"	"Other, Cyber"	"Other, NOT Cyber"	Cyber Monday	Cyber Monday
+"Other, NOT Cyber"	Cyber Monday	Cyber Monday	"Other, Cyber"	"Other, Cyber"	Security	U.S. 2016 Election	"Other, NOT Cyber"	"Other, Cyber"	Cyber Monday	Security	"Other, Cyber"	Cyber Monday
+"Other, NOT Cyber"	"Other, NOT Cyber"	Security	Cyber Monday	Security	Security	Security	"Other, NOT Cyber"	"Other, NOT Cyber"	Security	U.S. 2016 Election	"Other, Cyber"	"Other, Cyber"
+"Other, NOT Cyber"	"Other, Cyber"	Security	Security	"Other, Cyber"	"Other, Cyber"	Security	"Other, Cyber"	Security	"Other, Cyber"	Security	Cyber Monday	Security
+"Other, NOT Cyber"	Security	Security	Security	U.S. 2016 Election	Cyber Monday	Cyber Monday	"Other, Cyber"	"Other, Cyber"	Security	Security	U.S. 2016 Election	Cyber Monday
+"Other, NOT Cyber"	Security	Security	Cyber Monday	U.S. 2016 Election	"Other, Cyber"	Security	"Other, NOT Cyber"	U.S. 2016 Election	"Other, Cyber"	Cyber Monday	"Other, NOT Cyber"	"Other, Cyber"
+"Other, NOT Cyber"	"Other, NOT Cyber"	U.S. 2016 Election	Cyber Monday	Security	"Other, Cyber"	Security	Security	U.S. 2016 Election	Security	"Other, Cyber"	"Other, NOT Cyber"	Cyber Monday
+"Other, NOT Cyber"	"Other, NOT Cyber"	U.S. 2016 Election	"Other, NOT Cyber"	"Other, Cyber"	"Other, Cyber"	"Other, Cyber"	"Other, NOT Cyber"	U.S. 2016 Election	"Other, Cyber"	"Other, NOT Cyber"	"Other, NOT Cyber"	Cyber Monday
+"Other, NOT Cyber"	Security	U.S. 2016 Election	"Other, Cyber"	Cyber Monday	Cyber Monday	Cyber Monday	U.S. 2016 Election	"Other, Cyber"	Cyber Monday	"Other, Cyber"	Security	"Other, Cyber"
+"Other, NOT Cyber"	"Other, NOT Cyber"	U.S. 2016 Election	"Other, NOT Cyber"	"Other, Cyber"	"Other, Cyber"	Security	Security	U.S. 2016 Election	"Other, Cyber"	U.S. 2016 Election	"Other, NOT Cyber"	"Other, NOT Cyber"
+"Other, NOT Cyber"	"Other, NOT Cyber"	Security	"Other, NOT Cyber"	Security	"Other, Cyber"	Security	Security	"Other, NOT Cyber"	Cyber Monday	"Other, NOT Cyber"	"Other, NOT Cyber"	U.S. 2016 Election
+"Other, NOT Cyber"	Security	"Other, Cyber"	Cyber Monday	"Other, Cyber"	"Other, Cyber"	"Other, Cyber"	"Other, NOT Cyber"	U.S. 2016 Election	"Other, Cyber"	Security	Cyber Monday	Cyber Monday
+"Other, NOT Cyber"	"Other, NOT Cyber"	Security	"Other, NOT Cyber"	"Other, Cyber"	Security	Security	"Other, NOT Cyber"	U.S. 2016 Election	"Other, Cyber"	"Other, NOT Cyber"	"Other, NOT Cyber"	"Other, Cyber"
+"Other, NOT Cyber"	U.S. 2016 Election	"Other, Cyber"	"Other, NOT Cyber"	"Other, Cyber"	Security	Cyber Monday	"Other, NOT Cyber"	U.S. 2016 Election	"Other, Cyber"	Cyber Monday	"Other, NOT Cyber"	"Other, Cyber"
+"Other, NOT Cyber"	"Other, Cyber"	"Other, NOT Cyber"	"Other, NOT Cyber"	U.S. 2016 Election	Cyber Monday	"Other, Cyber"	Security	U.S. 2016 Election	"Other, Cyber"	Security	Cyber Monday	Security
+"Other, NOT Cyber"	"Other, NOT Cyber"	Security	Cyber Monday	Security	"Other, Cyber"	"Other, Cyber"	Security	U.S. 2016 Election	"Other, Cyber"	Security	"Other, NOT Cyber"	"Other, Cyber"
+"Other, NOT Cyber"	"Other, NOT Cyber"	"Other, Cyber"	U.S. 2016 Election	U.S. 2016 Election	"Other, Cyber"	Security	"Other, Cyber"	U.S. 2016 Election	Security	Cyber Monday	Cyber Monday	"Other, Cyber"
+	"Other, NOT Cyber"	Security	"Other, NOT Cyber"	Security	"Other, Cyber"	Security	Security	"Other, NOT Cyber"	Cyber Monday	"Other, NOT Cyber"	"Other, NOT Cyber"	U.S. 2016 Election
+"Other, NOT Cyber"	"Other, Cyber"	"Other, NOT Cyber"	"Other, NOT Cyber"	Security	Security	U.S. 2016 Election	Cyber Monday	U.S. 2016 Election	"Other, Cyber"	Security	Cyber Monday	"Other, NOT Cyber"
+"Other, NOT Cyber"	Cyber Monday	Security	"Other, NOT Cyber"	"Other, Cyber"	Security	"Other, Cyber"	Security	U.S. 2016 Election	"Other, Cyber"	Security	"Other, NOT Cyber"	Cyber Monday
+"Other, NOT Cyber"	"Other, NOT Cyber"	"Other, Cyber"	Cyber Monday	Security	"Other, Cyber"	"Other, Cyber"	Security	U.S. 2016 Election	"Other, Cyber"	U.S. 2016 Election	"Other, NOT Cyber"	"Other, Cyber"
+"Other, NOT Cyber"	"Other, NOT Cyber"	U.S. 2016 Election	Cyber Monday	Security	Security	"Other, Cyber"	"Other, NOT Cyber"	U.S. 2016 Election	Security	U.S. 2016 Election	Cyber Monday	Cyber Monday
+"Other, NOT Cyber"	"Other, NOT Cyber"	U.S. 2016 Election	Cyber Monday	U.S. 2016 Election	Security	U.S. 2016 Election	"Other, NOT Cyber"	U.S. 2016 Election	Security	U.S. 2016 Election	Cyber Monday	Cyber Monday
+"Other, NOT Cyber"	"Other, NOT Cyber"	Security	Cyber Monday	Security	"Other, Cyber"	Security	"Other, NOT Cyber"	"Other, NOT Cyber"	Security	"Other, NOT Cyber"	Cyber Monday	Cyber Monday
+"Other, NOT Cyber"	"Other, Cyber"	"Other, Cyber"	Cyber Monday	"Other, Cyber"	"Other, Cyber"	"Other, Cyber"	"Other, Cyber"	"Other, Cyber"	"Other, Cyber"	Cyber Monday	"Other, Cyber"	Cyber Monday
+"Other, NOT Cyber"	"Other, NOT Cyber"	Security	Cyber Monday	Cyber Monday	Cyber Monday	U.S. 2016 Election	Security	U.S. 2016 Election	Cyber Monday	"Other, NOT Cyber"	Cyber Monday	"Other, Cyber"
+"Other, NOT Cyber"	"Other, NOT Cyber"	Security	Cyber Monday	Security	Security	"Other, Cyber"	"Other, NOT Cyber"	U.S. 2016 Election	"Other, Cyber"	"Other, NOT Cyber"	"Other, NOT Cyber"	"Other, NOT Cyber"
+"Other, NOT Cyber"	"Other, NOT Cyber"	Security	U.S. 2016 Election	Security	"Other, Cyber"	Cyber Monday	Security	U.S. 2016 Election	"Other, Cyber"	Security	"Other, NOT Cyber"	"Other, Cyber"
+"Other, NOT Cyber"	"Other, NOT Cyber"	Security	Security	"Other, Cyber"	Security	Cyber Monday	"Other, Cyber"	"Other, NOT Cyber"	Cyber Monday	Cyber Monday	"Other, NOT Cyber"	"Other, NOT Cyber"
+"Other, NOT Cyber"	"Other, NOT Cyber"	U.S. 2016 Election	Cyber Monday	Security	Security	Security	"Other, NOT Cyber"	U.S. 2016 Election	Security	"Other, NOT Cyber"	Cyber Monday	Cyber Monday
+"Other, NOT Cyber"	"Other, Cyber"	Cyber Monday	Cyber Monday	U.S. 2016 Election	Cyber Monday	Cyber Monday	Security	U.S. 2016 Election	"Other, NOT Cyber"	Cyber Monday	Security	U.S. 2016 Election
+"Other, NOT Cyber"	"Other, NOT Cyber"	Security	Cyber Monday	Security	"Other, Cyber"	U.S. 2016 Election	"Other, NOT Cyber"	U.S. 2016 Election	Security	U.S. 2016 Election	Cyber Monday	Cyber Monday
+"Other, NOT Cyber"	"Other, NOT Cyber"	"Other, Cyber"	Cyber Monday	"Other, Cyber"	"Other, Cyber"	"Other, Cyber"	Security	U.S. 2016 Election	"Other, Cyber"	"Other, NOT Cyber"	"Other, NOT Cyber"	"Other, Cyber"
+"Other, NOT Cyber"	Security	"Other, Cyber"	Cyber Monday	Cyber Monday	"Other, Cyber"	Security	"Other, Cyber"	U.S. 2016 Election	U.S. 2016 Election	Security	Security	Cyber Monday
+"Other, NOT Cyber"	"Other, NOT Cyber"	Security	Cyber Monday	Security	Security	Security	"Other, NOT Cyber"	U.S. 2016 Election	Security	"Other, NOT Cyber"	"Other, NOT Cyber"	"Other, NOT Cyber"
+"Other, NOT Cyber"	Cyber Monday	"Other, Cyber"	Cyber Monday	Security	Security	Security	Cyber Monday	Security	"Other, Cyber"	"Other, Cyber"	"Other, Cyber"	"Other, Cyber"
+"Other, NOT Cyber"	"Other, NOT Cyber"	Cyber Monday	"Other, Cyber"	Security	Cyber Monday	Cyber Monday	"Other, NOT Cyber"	U.S. 2016 Election	Security	Cyber Monday	"Other, NOT Cyber"	"Other, NOT Cyber"
+"Other, NOT Cyber"	"Other, NOT Cyber"	"Other, Cyber"	"Other, NOT Cyber"	Cyber Monday	"Other, NOT Cyber"	Cyber Monday	Security	U.S. 2016 Election	Cyber Monday	Security	"Other, NOT Cyber"	"Other, NOT Cyber"
+"Other, NOT Cyber"	Security	Cyber Monday	Cyber Monday	Cyber Monday	Cyber Monday	Cyber Monday	"Other, Cyber"	Cyber Monday	"Other, Cyber"	"Other, NOT Cyber"	Cyber Monday	"Other, NOT Cyber"
+"Other, NOT Cyber"	"Other, NOT Cyber"	Security	"Other, NOT Cyber"	Security	Security	Security	"Other, NOT Cyber"	U.S. 2016 Election	Security	Security	"Other, NOT Cyber"	Cyber Monday
+"Other, NOT Cyber"	"Other, Cyber"	Cyber Monday	Cyber Monday	"Other, Cyber"	Security	"Other, Cyber"	Security	U.S. 2016 Election	Cyber Monday	"Other, NOT Cyber"	"Other, NOT Cyber"	"Other, Cyber"
+"Other, NOT Cyber"	U.S. 2016 Election	U.S. 2016 Election	Security	Security	Cyber Monday	Cyber Monday	"Other, Cyber"	Security	Cyber Monday	"Other, Cyber"	Cyber Monday	Cyber Monday
+"Other, NOT Cyber"	"Other, NOT Cyber"	U.S. 2016 Election	Cyber Monday	Security	"Other, Cyber"	"Other, Cyber"	"Other, NOT Cyber"	U.S. 2016 Election	Security	U.S. 2016 Election	"Other, NOT Cyber"	Cyber Monday
