@@ -1,0 +1,371 @@
+certainty,subject,verb,object
+1.0,United States Government,said at_time,today
+1.0,team,flew to,Laos
+1.0,team,flew,search for remains of Americans missing in action
+1.0,team,flew,search for remains missing
+1.0,team,flew at_time,today
+1.0,team,flew,search for remains of Americans
+1.0,team,search for,remains
+1.0,team,search for,remains missing in action
+1.0,team,flew,search for remains missing in action
+1.0,team,search for,remains of Americans missing in action
+1.0,team,search for,remains missing
+1.0,team,search for,remains of Americans missing
+1.0,team,flew to,southern Laos
+1.0,team,search for,remains of Americans
+1.0,team,flew,search for remains
+1.0,team,flew,search
+1.0,team,flew,search for remains of Americans missing
+1.0,action,is in,Vietnam War
+1.0,reliable sources,disclosed at_time,today
+1.0,sources,disclosed at_time,today
+1.0,Vietnam,turn over to,United States
+1.0,Americans,are,listed
+1.0,United States military officials,flew to,Hanoi
+1.0,United States officials,returned to,Philippines
+1.0,United States officials,flew to,Hanoi
+1.0,United States military officials,returned at_time,today
+1.0,United States officials,returned at_time,today
+1.0,United States military officials,returned to,Philippines
+1.0,United States,said at_time,today
+1.0,B-52 crash site,is in,move settling since Vietnam War
+1.0,Vietnam,has allowed Americans,war ended
+1.0,Americans,participate in,search for remains of servicemen
+0.33669769426858,Vietnam,has allowed,participate in search for remains of missing servicemen
+1.0,Americans,participate in,search
+1.0,American investigators,excavate,bomber crash site near Hanoi
+0.33669769426858,Vietnam,has allowed,war ended
+0.33669769426858,Vietnam,has allowed,participate
+0.33669769426858,Vietnam,has allowed,participate in search for remains
+1.0,investigators,excavate,bomber crash site near Hanoi
+0.33669769426858,Vietnam,has allowed,participate in search
+0.33669769426858,Vietnam,has allowed,participate in search for remains of servicemen
+1.0,investigators,excavate bomber crash site at_time,month
+1.0,Americans,participate in,search for remains of missing servicemen
+1.0,war,ended in,1975
+1.0,investigators,excavate,bomber crash site
+1.0,Vietnam,has allowed Americans,war ended in 1975
+0.33669769426858,Vietnam,has allowed,war ended in 1975
+1.0,American investigators,excavate bomber crash site at_time,month
+1.0,Vietnam,has allowed,Americans
+1.0,Americans,participate in,search for remains
+1.0,American investigators,excavate,bomber crash site
+1.0,significant breakthrough,is in,"effort account for 2,441 Americans"
+1.0,agreement,was,significant
+1.0,action,is in,Indochina
+1.0,military officials,discuss,fate of American servicemen
+1.0,officials,discuss,fate
+1.0,fate,excavate crash site in,such joint effort
+1.0,fate,excavate crash site in,such effort of United States
+1.0,American military officials,discuss,fate
+1.0,American officials,discuss,fate of servicemen listed
+1.0,American military officials,discuss,fate of American servicemen listed
+1.0,American officials,discuss,fate
+1.0,military officials,arrived in,Hanoi
+1.0,fate,excavate crash site in,joint effort
+1.0,fate,excavate,crash site
+1.0,fate,excavate crash site in,first effort of United States
+1.0,officials,arrived at_time,today
+1.0,fate,excavate crash site in,such joint effort of United States
+1.0,American military officials,arrived at_time,today
+1.0,American military officials,discuss,fate of American servicemen
+1.0,American military officials,discuss,fate of servicemen listed
+1.0,military officials,discuss,fate of American servicemen listed
+1.0,fate,excavate crash site in,first such effort
+1.0,action,is in,Vietnam
+1.0,fate,excavate crash site in,first joint effort of United States
+1.0,officials,arrived in,Hanoi
+1.0,officials,discuss,fate of servicemen listed
+1.0,officials,discuss,fate of servicemen
+1.0,American military officials,arrived in,Hanoi
+1.0,fate,excavate crash site in,effort
+1.0,military officials,discuss,fate of servicemen listed
+1.0,officials,discuss,fate of American servicemen listed
+1.0,fate,excavate crash site in,such effort
+1.0,military officials,discuss,fate
+1.0,fate,excavate crash site in,joint effort of United States
+1.0,American officials,arrived at_time,today
+1.0,fate,excavate crash site in,first such effort of United States
+1.0,fate,excavate,crash site of B-52 bomber
+1.0,fate,excavate crash site in,effort of United States
+1.0,fate,excavate crash site in,first effort
+1.0,military officials,discuss,fate of servicemen
+1.0,officials,discuss,fate of American servicemen
+1.0,American officials,discuss,fate of servicemen
+1.0,fate,excavate crash site in,first such joint effort of United States
+1.0,American officials,discuss,fate of American servicemen listed
+1.0,American officials,arrived in,Hanoi
+1.0,American officials,discuss,fate of American servicemen
+1.0,fate,excavate crash site in,first such joint effort
+1.0,military officials,arrived at_time,today
+1.0,American military officials,discuss,fate of servicemen
+1.0,fate,excavate crash site in,first joint effort
+1.0,Vietnam,asked,United States
+1.0,Vietnam,asked United States at_time,today
+1.0,United States,send,delegation
+1.0,United States,send,high-level delegation
+1.0,United States,send delegation to,Hanoi
+0.8880094809028524,American servicemen,standing watch as,boxes
+1.0,American servicemen,were loaded onto,transport plane for flight
+0.7802942394140986,containing,remains of,missing Americans
+1.0,servicemen,were loaded onto,transport plane for flight to Hawaii
+1.0,American servicemen,were,loaded
+0.1805907273740341,American servicemen,standing as,boxes
+1.0,American servicemen,were loaded onto,transport plane in Hanoi for flight to Hawaii
+0.8880094809028524,American servicemen,standing,watch
+1.0,servicemen,were loaded onto,transport plane in Hanoi for flight
+1.0,American servicemen,were loaded onto,transport plane
+1.0,American servicemen,were loaded onto,transport plane in Hanoi
+0.7802942394140986,containing,remains of,seven missing Americans
+1.0,transport plane,is in,Hanoi
+1.0,servicemen,were loaded onto,transport plane in Hanoi
+1.0,American servicemen,were loaded onto,transport plane for flight to Hawaii
+1.0,servicemen,were loaded onto,transport plane for flight
+0.8880094809028524,servicemen,standing watch as,boxes
+0.8880094809028524,servicemen,standing,watch
+1.0,American servicemen,were loaded onto,transport plane in Hanoi for flight
+1.0,servicemen,were,loaded
+1.0,servicemen,were loaded onto,transport plane
+1.0,servicemen,were loaded onto,transport plane in Hanoi for flight to Hawaii
+0.1805907273740341,servicemen,standing as,boxes
+1.0,Army laboratory,identified,remains of six American servicemen
+1.0,Army laboratory,identified,remains of six American servicemen killed
+0.5014008711832381,Army laboratory,remains of,six servicemen killed in Vietnam War
+1.0,Army laboratory,identified,remains
+0.5014008711832381,Army laboratory,remains of,six American servicemen killed
+1.0,Army laboratory,identified,remains of six servicemen
+0.5014008711832381,Army laboratory,remains of,six American servicemen
+0.5014008711832381,Army laboratory,remains of,six servicemen
+0.5014008711832381,Army laboratory,remains of,six servicemen killed
+1.0,Army laboratory,identified,remains of six servicemen killed
+1.0,Army laboratory,identified,remains of six American servicemen killed in Vietnam War
+1.0,Army laboratory,identified,remains of six servicemen killed in Vietnam War
+0.5014008711832381,Army laboratory,remains of,six American servicemen killed in Vietnam War
+1.0,Pentagon,announced at_time,today
+1.0,Foreign Minister Nguyen Co Thach,said at_time,today
+1.0,Vietnam,has,official radio
+1.0,Vietnam 's official radio,said at_time,today
+1.0,Vietnam 's radio,said at_time,today
+1.0,President Reagan,said at_time,Thursday
+1.0,fullest possible accounting,is in,action
+1.0,Vietnam,appear,willing
+1.0,United States,appear,willing
+1.0,United States,appear according to,statements from countries
+1.0,Vietnam,appear according to,statements from countries
+1.0,Reagan Administration,made,it would depend on level of Vietnamese cooperation in search for missing Americans
+1.0,it,depend on,higher level of Vietnamese cooperation
+1.0,it,depend on,higher level of cooperation in search
+1.0,Reagan Administration,made,it would depend on significantly higher level
+1.0,it,depend on,level of Vietnamese cooperation in search
+1.0,it,depend on,significantly level of Vietnamese cooperation in search for missing Americans
+1.0,it,depend on,higher level of Vietnamese cooperation in search for Americans
+1.0,it,depend on,level of Vietnamese cooperation in search for missing Americans
+1.0,Reagan Administration,made,it would depend on significantly level of cooperation in search for Americans
+1.0,it,depend on,higher level of cooperation in search for missing Americans
+1.0,it,depend on,significantly level of cooperation in search for Americans
+1.0,Reagan Administration,made,it would depend on level of cooperation in search for Americans
+1.0,it,depend on,level of cooperation in search for missing Americans
+1.0,it,depend on,higher level of Vietnamese cooperation in search
+1.0,it,depend on,significantly higher level of cooperation
+1.0,Reagan Administration,made,it would depend on significantly level of Vietnamese cooperation in search
+1.0,Reagan Administration,made,it would depend on significantly higher level of Vietnamese cooperation
+1.0,Reagan Administration,made,it would depend on higher level of Vietnamese cooperation in search
+1.0,Reagan Administration,made in,statement
+1.0,it,depend on,level of cooperation in search
+1.0,it,depend on,significantly level of Vietnamese cooperation
+1.0,Reagan Administration,made,it would depend on significantly higher level of cooperation
+1.0,Reagan Administration,made,it would depend on significantly level of Vietnamese cooperation in search for Americans
+1.0,Reagan Administration,made in,statement issued in Bangkok
+1.0,it,depend on,level of Vietnamese cooperation in search for Americans
+1.0,it,depend on,level of Vietnamese cooperation
+1.0,Vietnamese cooperation,is in,search for missing Americans
+1.0,Reagan Administration,made,it would depend on higher level of Vietnamese cooperation
+1.0,Reagan Administration,made,it would depend on higher level of Vietnamese cooperation in search for missing Americans
+1.0,it,depend on,level
+1.0,Reagan Administration,made,it would depend on significantly level of cooperation in search for missing Americans
+1.0,it,depend on,higher level of cooperation in search for Americans
+1.0,Reagan Administration,made,it would depend on higher level
+1.0,Reagan Administration,made,it would depend on higher level of cooperation in search for missing Americans
+1.0,Reagan Administration,made,it would depend on level of cooperation in search
+1.0,Reagan Administration,made,it would depend on level of cooperation in search for missing Americans
+1.0,it,depend on,significantly level of cooperation in search
+1.0,it,depend on,significantly level
+1.0,it,depend on,significantly higher level of cooperation in search for missing Americans
+1.0,Reagan Administration,made in,statement issued by United States Embassy
+1.0,Reagan Administration,made,it would depend on significantly higher level of cooperation in search for missing Americans
+1.0,Reagan Administration,made,it would depend on higher level of cooperation in search
+1.0,Reagan Administration,made,it would depend on significantly higher level of Vietnamese cooperation in search for missing Americans
+1.0,Reagan Administration,made,it would depend on significantly level of Vietnamese cooperation
+1.0,it,depend on,significantly higher level of cooperation in search
+1.0,it,depend on,significantly level of cooperation in search for missing Americans
+1.0,it,depend on,significantly higher level of cooperation in search for Americans
+1.0,it,depend on,level of cooperation
+1.0,Reagan Administration,made,it would depend on level
+1.0,it,depend on,significantly higher level of Vietnamese cooperation in search for Americans
+1.0,Reagan Administration,made,it would depend on significantly higher level of cooperation in search
+1.0,it,depend on,significantly higher level of Vietnamese cooperation
+1.0,Reagan Administration,made,it would depend on higher level of cooperation in search for Americans
+1.0,it,depend on,significantly higher level of Vietnamese cooperation in search
+1.0,it,depend on,significantly level of Vietnamese cooperation in search
+1.0,Reagan Administration,made,it would depend on significantly level of Vietnamese cooperation in search for missing Americans
+1.0,it,depend on,significantly higher level of Vietnamese cooperation in search for missing Americans
+1.0,Reagan Administration,made,it would depend on higher level of cooperation
+1.0,Reagan Administration,made in,statement issued
+1.0,it,depend on,higher level
+1.0,Reagan Administration,made,it would depend on level of Vietnamese cooperation in search
+1.0,it,depend on,level of cooperation in search for Americans
+1.0,it,depend on,significantly level of cooperation
+1.0,Reagan Administration,made in,statement issued by United States Embassy in Bangkok
+1.0,Reagan Administration,made,it would depend on level of cooperation
+1.0,Reagan Administration,made,it would depend on higher level of Vietnamese cooperation in search for Americans
+1.0,Reagan Administration,made,it would depend
+1.0,it,depend on,significantly level of Vietnamese cooperation in search for Americans
+1.0,Reagan Administration,made,it would depend on level of Vietnamese cooperation in search for Americans
+1.0,Reagan Administration,made,it would depend on significantly level
+1.0,it,depend on,significantly higher level
+1.0,it,depend on,higher level of cooperation
+1.0,Reagan Administration,made,it would depend on significantly higher level of Vietnamese cooperation in search for Americans
+1.0,Reagan Administration,made,it would depend on significantly level of cooperation in search
+1.0,it,depend on,higher level of Vietnamese cooperation in search for missing Americans
+1.0,Reagan Administration,made,it would depend on level of Vietnamese cooperation
+1.0,Reagan Administration,made,it would depend on significantly higher level of cooperation in search for Americans
+1.0,Reagan Administration,made,it would depend on significantly level of cooperation
+1.0,Reagan Administration,made,it would depend on significantly higher level of Vietnamese cooperation in search
+1.0,State Department officials,said at_time,today
+1.0,high-level talks,is with,United States
+1.0,Americans officials,said at_time,today
+1.0,George P. Shultz,said at_time,today
+1.0,Laos,said at_time,today
+1.0,war,is in,Indochina
+1.0,Vietnam,has,recent offer resolve
+1.0,Government,turned over at_time,today
+1.0,It,resolve,entire issue of missing in action
+1.0,It,indicated,acceptance of visit by senior United States officials
+0.15746496938026003,It,indicated at_time,month
+1.0,It,also indicated acceptance at_time,month
+1.0,It,indicated,acceptance
+1.0,It,also indicated,acceptance of proposed visit
+1.0,It,indicated,acceptance of proposed visit
+0.15746496938026003,It,also indicated at_time,month
+1.0,It,resolve,issue of missing
+1.0,It,indicated,acceptance of proposed visit by senior United States officials
+1.0,It,indicated acceptance at_time,later month
+1.0,It,also indicated,acceptance of proposed visit by United States officials
+1.0,It,resolve,issue of missing in action
+1.0,It,also indicated,acceptance of proposed visit by senior United States officials
+1.0,It,indicated,acceptance of visit by United States officials
+1.0,It,resolve,issue
+1.0,It,also indicated,acceptance of visit by United States officials
+1.0,It,also indicated,acceptance
+1.0,It,indicated acceptance at_time,month
+0.15746496938026003,It,indicated at_time,later month
+1.0,It,indicated,acceptance of visit
+0.15746496938026003,It,also indicated at_time,later month
+1.0,It,also indicated,acceptance of visit by senior United States officials
+1.0,It,also indicated acceptance at_time,later month
+1.0,It,indicated,acceptance of proposed visit by United States officials
+1.0,It,resolve,entire issue of missing
+1.0,It,resolve,entire issue
+1.0,It,also indicated,acceptance of visit
+0.3553926199252864,its departure,fate of,American servicemen
+1.0,fate,postponed,its departure for Hanoi
+0.3553926199252864,its departure,fate of,missing American servicemen
+1.0,fate,postponed,its departure
+0.3553926199252864,its departure,fate of,servicemen
+0.3553926199252864,its departure,fate of,missing servicemen
+1.0,it,resolve,question of Americans
+0.5926783807908189,talks,discuss,it
+1.0,it,was,prepared
+1.0,it,resolve,question of Americans missing
+1.0,it,resolve,question of Americans missing in action
+1.0,Vietnamese Government,announced in,July
+1.0,it,resolve question within,two years
+1.0,it,resolve,question
+1.0,Government,announced in,July
+0.5926783807908189,high-level talks,discuss,it
+1.0,half,is in,Vietnam
+1.0,Americans,missing in,Indochina war
+1.0,Americans,are,listed half of them in Vietnam
+1.0,Vietnam,resolve,"issue of nearly 1,400 Americans missing in action in Vietnam War"
+1.0,Vietnam,resolve,issue
+1.0,Vietnam,resolve,"issue of nearly 1,400 Americans"
+1.0,Vietnam,offered plan at_time,today
+1.0,action,is in,Vietnam War
+1.0,Vietnam,offered,two-year plan
+1.0,Vietnam,resolve,"issue of nearly 1,400 Americans missing"
+1.0,Vietnam,resolve,"issue of nearly 1,400 Americans missing in action"
+1.0,Vietnam,resolve,issue missing in action in Vietnam War
+1.0,Vietnam,resolve,issue missing in action
+1.0,Vietnam,offered,plan
+1.0,Vietnam,resolve,issue missing
+1.0,head,said at_time,today
+1.0,issue,is in,very short time
+1.0,Richard Childress,member of,National Security Council
+1.0,remains,been,identified
+1.0,Leaders,took issue with,Pentagon statement
+1.0,Leaders,took issue at_time,yesterday
+1.0,remains,been,positively identified
+1.0,Leaders,took,issue
+1.0,J. Thomas Burch Jr.,coordinator of,group
+1.0,J. Thomas Burch Jr.,also presented At,news conference
+1.0,J. Thomas Burch Jr.,also presented At,news conference at Penta Hotel
+1.0,J. Thomas Burch Jr.,also presented At,news conference at Penta Hotel in New York
+0.633593924617174,he said,was,evidence
+1.0,J. Thomas Burch Jr.,presented At,news conference at Penta Hotel
+1.0,J. Thomas Burch Jr.,presented At,news conference at Penta Hotel in New York
+1.0,J. Thomas Burch Jr.,presented At,news conference
+1.0,Penta Hotel,is in,New York
+1.0,Reagan Administration,ignored,evidence
+1.0,four-member United States delegation,discuss,recovery of remains of American servicemen
+1.0,United States military delegation,traveled to,Hanoi
+1.0,United States delegation,discuss,recovery of remains
+1.0,United States military delegation,discuss,recovery of remains of servicemen
+1.0,four-member United States delegation,discuss,recovery of remains of servicemen still listed
+1.0,United States military delegation,discuss,recovery of remains of American servicemen
+1.0,four-member United States delegation,discuss,recovery of remains of servicemen listed
+1.0,United States military delegation,discuss,recovery of remains of servicemen listed
+1.0,four-member United States delegation,discuss,recovery of remains of American servicemen listed
+1.0,United States military delegation,discuss,recovery of remains of servicemen still listed
+1.0,United States delegation,discuss,recovery of remains of American servicemen still listed
+1.0,United States delegation,traveled to,Hanoi
+1.0,United States delegation,discuss,recovery of remains of servicemen still listed
+1.0,action,is in,Vietnam
+1.0,United States military delegation,discuss,recovery of remains of American servicemen still listed
+1.0,United States delegation,traveled at_time,today
+1.0,four-member United States delegation,traveled to,Hanoi
+1.0,United States delegation,discuss,recovery of remains of servicemen
+1.0,United States delegation,discuss,recovery of remains of American servicemen listed
+1.0,four-member United States military delegation,discuss,recovery of remains of servicemen
+1.0,four-member United States military delegation,discuss,recovery
+1.0,United States military delegation,traveled at_time,today
+1.0,four-member United States military delegation,traveled at_time,today
+1.0,United States delegation,discuss,recovery of remains of servicemen listed
+1.0,four-member United States military delegation,discuss,recovery of remains of American servicemen still listed
+1.0,four-member United States delegation,discuss,recovery of remains
+1.0,United States military delegation,discuss,recovery of remains of American servicemen listed
+1.0,four-member United States delegation,discuss,recovery
+1.0,four-member United States military delegation,traveled to,Hanoi
+1.0,United States military delegation,discuss,recovery of remains
+1.0,four-member United States military delegation,discuss,recovery of remains of American servicemen
+1.0,United States military delegation,discuss,recovery
+1.0,four-member United States delegation,discuss,recovery of remains of American servicemen still listed
+1.0,United States delegation,discuss,recovery of remains of American servicemen
+1.0,four-member United States military delegation,discuss,recovery of remains of servicemen listed
+1.0,four-member United States military delegation,discuss,recovery of remains of servicemen still listed
+1.0,United States delegation,discuss,recovery
+1.0,four-member United States delegation,traveled at_time,today
+1.0,four-member United States military delegation,discuss,recovery of remains
+1.0,four-member United States military delegation,discuss,recovery of remains of American servicemen listed
+1.0,four-member United States delegation,discuss,recovery of remains of servicemen
+1.0,"1,369 Americans",listed,missing
+1.0,Americans,listed,missing in action
+1.0,Americans,missing in,action
+1.0,Americans,listed,missing
+1.0,"1,369 Americans",listed,missing in action
+1.0,Americans,missing in,action in Vietnam
+1.0,"1,369 Americans",missing in,action
+1.0,"1,369 Americans",missing in,action in Vietnam
+1.0,Americans,listed,missing in action in Vietnam
+1.0,total,is in,all of Indochina
+1.0,action,is in,Vietnam
+1.0,"1,369 Americans",listed,missing in action in Vietnam

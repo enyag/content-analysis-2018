@@ -1,0 +1,14 @@
+certainty,subject,verb,object
+1.0,You,mention,"some 2,000 American troops missing in action"
+1.0,You,mention,"some 2,000 American troops"
+1.0,You,mention,"some 2,000 American troops missing"
+0.7286489880543094,Unknown Soldier May,editorial at_time,Feb. 21
+1.0,You,mention,"some 2,000 troops missing in action in Vietnam"
+1.0,You,mention,"some 2,000 troops"
+1.0,action,is in,Vietnam
+1.0,You,mention,"some 2,000 troops missing in action"
+1.0,You,mention,"some 2,000 American troops missing in action in Vietnam"
+0.7286489880543094,Soldier May,editorial at_time,Feb. 21
+1.0,You,mention,"some 2,000 troops missing"
+1.0,President Reagan,PRESIDING over,ceremony
+1.0,Vietnam,said at_time,today
